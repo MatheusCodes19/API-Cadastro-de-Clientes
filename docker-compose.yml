@@ -1,0 +1,21 @@
+version: '3.9'
+
+services:
+  backend:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+    command: npm run dev
+    environment:
+      - DATABASE_URL=sua_string_de_conexao_do_mongodb_atlas
+
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "3001:80"           # Vite build é servido pelo nginx na porta 80 do container
+    # volumes não são necessários para produção build + nginx
+    # Remova volumes para evitar conflito com a build estática
+
