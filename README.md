@@ -2,10 +2,10 @@
 Este é um projeto de backend e frontend para um sistema de cadastro de clientes, utilizando: Node.js, React, MongoDB Atlas e Docker. O sistema permite efetuar o castro dos clientes através do seu nome e do seu e-mail. 
 
 ## Tecnologias
-**Node.js**: Ambiente de execução JavaScript do lado do servidor.
-**React**: Bibliotecas JavaScript que permitem criar componentes reutilizáveis.
-**MongoDB Atlas**: Banco de dados NoSQL de código aberto e orientado a documentos.
-**Docker**: Plataforma que permite: construir, implementar, executar, atualizar e gerenciar containers.
+- **Node.js**: Ambiente de execução JavaScript do lado do servidor.
+- **React**: Bibliotecas JavaScript que permitem criar componentes reutilizáveis.
+- **MongoDB Atlas**: Banco de dados NoSQL de código aberto e orientado a documentos.
+- **Docker**: Plataforma que permite: construir, implementar, executar, atualizar e gerenciar containers.
 
 ## Pré-requisitos
 
