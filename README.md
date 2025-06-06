@@ -35,9 +35,9 @@ git push origin nome-da-sua-branch
 Crie um **pull request** para o repositório original.
 
 ## Autores
-**Ana Vitória**
-**Luiza Pontes**
-**Matheus Chaves** 
+- **Ana Vitória**
+- **Luiza Pontes**
+- **Matheus Chaves** 
 
 ## Licença
 Este projeto está licenciado sob a Licença **Creative Commons**. Para mais detalhes, consulte o arquivo LICENSE.
