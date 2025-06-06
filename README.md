@@ -1,2 +1,43 @@
-npm run dev
-npx prisma studio
+# Cadastro de Clientes 
+Este é um projeto de backend e frontend para um sistema de cadastro de clientes, utilizando: Node.js, React, MongoDB Atlas e Docker. O sistema permite efetuar o castro dos clientes através do seu nome e do seu e-mail. 
+
+## Tecnologias
+**Node.js**: Ambiente de execução JavaScript do lado do servidor.
+**React**: Bibliotecas JavaScript que permitem criar componentes reutilizáveis.
+**MongoDB Atlas**: Banco de dados NoSQL de código aberto e orientado a documentos.
+**Docker**: Plataforma que permite: construir, implementar, executar, atualizar e gerenciar containers.
+
+## Pré-requisitos
+
+Antes de começar, você precisará ter o seguinte instalado em sua máquina:
+Node.js
+Docker
+
+## Como Baixar o Repositório
+Clone o repositório para a sua máquina local com o comando:
+
+git clone https://github.com/seu-usuario/API-Cadastro-de-Clientes.git
+cd API-Cadastro-de-Clientes
+Em seguida, instale as dependências:
+
+npm install
+
+## Como Contribuir
+**Fork** o repositório.
+Crie uma nova **branch**:
+git checkout -b nome-da-sua-branch
+Faça suas alterações.
+
+Commit suas alterações:
+git commit -m "Descrição das alterações"
+**Push** para a sua branch:
+git push origin nome-da-sua-branch
+Crie um **pull request** para o repositório original.
+
+## Autores
+**Ana Vitória**
+**Luiza Pontes**
+**Matheus Chaves** 
+
+## Licença
+Este projeto está licenciado sob a Licença **Creative Commons**. Para mais detalhes, consulte o arquivo LICENSE.
