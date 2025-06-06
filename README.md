@@ -33,7 +33,6 @@ npm install
 ```bash
 git commit -m "Descrição das alterações"
 ```
-
 5. **Push** para a sua branch:
 ```bash
 git push origin nome-da-sua-branch
