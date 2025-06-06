@@ -23,16 +23,16 @@ Em seguida, instale as dependências:
 npm install
 
 ## Como Contribuir
-**Fork** o repositório.
-Crie uma nova **branch**:
+1. **Fork** o repositório.
+2. Crie uma nova **branch**:
 git checkout -b nome-da-sua-branch
-Faça suas alterações.
+3. Faça suas alterações.
 
-Commit suas alterações:
+4. Commit suas alterações:
 git commit -m "Descrição das alterações"
-**Push** para a sua branch:
+5. **Push** para a sua branch:
 git push origin nome-da-sua-branch
-Crie um **pull request** para o repositório original.
+6. Crie um **pull request** para o repositório original.
 
 ## Autores
 - **Ana Vitória**
