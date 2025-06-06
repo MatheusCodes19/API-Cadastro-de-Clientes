@@ -25,19 +25,19 @@ npm install
 ## Como Contribuir
 1. **Fork** o repositório.
 2. Crie uma nova **branch**:
-'''bash
+' ' 'bash
  git checkout -b nome-da-sua-branch
-'''
+' ' '
 3.. Faça suas alterações.
 
 4. Commit suas alterações:
-'''bash
+' ' 'bash
 git commit -m "Descrição das alterações"
-'''
+' ' '
 5. **Push** para a sua branch:
-'''bash
+' ' 'bash
 git push origin nome-da-sua-branch
-'''
+' ' '
 6. Crie um **pull request** para o repositório original.
 
 ## Autores
