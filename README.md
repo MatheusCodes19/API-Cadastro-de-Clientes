@@ -29,7 +29,6 @@ npm install
  git checkout -b nome-da-sua-branch
 ```
 3. Faça suas alterações.
-
 4. Commit suas alterações:
 ```bash
 git commit -m "Descrição das alterações"
