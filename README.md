@@ -17,7 +17,7 @@ Docker
 Clone o repositório para a sua máquina local com o comando:
 
 git clone https://github.com/seu-usuario/backend.git
-cd backend
+cd backend .
 Em seguida, instale as dependências:
 
 npm install
