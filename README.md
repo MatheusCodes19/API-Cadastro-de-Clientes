@@ -16,7 +16,7 @@ Docker
 ## Como Baixar o Repositório
 Clone o repositório para a sua máquina local com o comando:
 
-git clone https://github.com/seu-usuario/API-Cadastro-de-Clientes.git
+git clone https://github.com/seu-usuario/backend.git
 cd API-Cadastro-de-Clientes
 Em seguida, instale as dependências:
 
